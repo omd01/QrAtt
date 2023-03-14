@@ -22,3 +22,7 @@ QrAtt 'Online Attendance Using QR Code Scan'
 ![QrAtt](https://github.com/omd01/QrAtt/blob/main/QrAtt%20Presentation%20Img/18.jpg)
 ![QrAtt](https://github.com/omd01/QrAtt/blob/main/QrAtt%20Presentation%20Img/19.jpg)
 ![QrAtt](https://github.com/omd01/QrAtt/blob/main/QrAtt%20Presentation%20Img/20.jpg)
+
+# QrAtt Flow Digram
+![QrAtt](https://github.com/omd01/QrAtt/blob/main/QrAtt%20Presentation%20Img/QrAtt%20Flow%20Digram.jpg)
+
